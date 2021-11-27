@@ -6,7 +6,7 @@ import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-//added changes by ganesh
+//added changes by amit
 
 @Entity
 public class Employee {
